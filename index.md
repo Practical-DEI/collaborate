@@ -7,3 +7,12 @@ There is an [About](about) section that tells you more.
 
 You can even add posts, like in a blog. Here are the posts so far:
 [New](./2021-11-12-new.html)
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="./{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
