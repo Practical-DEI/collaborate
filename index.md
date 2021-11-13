@@ -6,4 +6,4 @@ There is an [About](about) section that tells you more.
 
 
 You can even add posts, like in a blog. Here are the posts so far:
-[New](_posts/2021-11-12-new.md)
+[New](/2021-11-12-new.html)
