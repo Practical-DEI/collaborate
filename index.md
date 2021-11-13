@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Collaborate - Practical Diversity, Equity and Inclusion website
 
 You can use the [editor on GitHub](https://github.com/rowlandm/dei.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
