@@ -2,7 +2,7 @@
 
 This is a community website to share ideas around practical diversity, equity and inclusion ideas.
 
-
+There is an [About](about) section that tells you more.
 
 
 
