@@ -11,4 +11,4 @@ The idea would be to make it collaborative, not competitive. I am also thinking 
 
 There was another [DEI hackathon from GoCo](https://www.goco.io/blog/diversity-equity-inclusion-hackathon/) that looked interesting, but I didn't see any followups (it was supposed to have been organised in May 2021).
 
-Any suggestions? Why not drop them in the [issues area](https://github.com/Practical-DEI/collaborate/issues) or you could [contact me via LinkedIn](https://au.linkedin.com/in/rowlandm-gaicd) 
+Any suggestions? Why not drop them in the [issues area](https://github.com/Practical-DEI/collaborate/issues), [have a look at my original post](https://www.rowlandm.com/2021/11/02/dei-hack/), or you could [contact me via LinkedIn](https://au.linkedin.com/in/rowlandm-gaicd) 
