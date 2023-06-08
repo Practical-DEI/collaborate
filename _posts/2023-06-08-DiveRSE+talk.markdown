@@ -5,6 +5,15 @@ date:   2023-06-08 12:50:04 +1100
 tags: community
 ---
 
+“Improving Diversity and Inclusion in the RSE Community” is a presentation for people interested in improving Diversity, Equity, and Inclusion in the Research Software Engineering community, be they Chairs of Committees or RSEs in multi-disciplinary teams.
+
+It provides a framework to understand that the underlying problem is systemic, it explains that the discrimination has an accumulated impact over time for diverse candidates, and it gives you practical advice and tips on things you can actually do right now to make a difference.
+
+It focuses on explaining the problem in concrete, not abstract terms - such as giving you glimpses of how people from marginalised groups are discriminated against subtly, like when they are ignored as possible renters or they are ignored at events.
+
+It also shows all the ways the framework has been implemented from recruitment to conferences to presentations so that you have concrete ideas on how you can do practical things to improve DEI in your community straight away.
+
+This is available on figshare with an accessible powerpoint presentation as well as a non-accessible PDF version.
 
 * [Link to the DiveRSE talk landing page](https://diverse-rse.github.io/events/2023-06-08)
 * [Link to this hackmd.io notepad](https://hackmd.io/@nsuDQSQzSSmnu6IZ_MyLew/BkC4em1w2)
