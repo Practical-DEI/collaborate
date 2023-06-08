@@ -5,7 +5,7 @@ date:   2023-06-08 12:50:04 +1100
 tags: community
 ---
 
- # Improving Diversity and Inclusion in the RSE Community June 8th DiveRSE talk
+# Improving Diversity and Inclusion in the RSE Community June 8th DiveRSE talk
 
 * [Link to the DiveRSE talk landing page](https://diverse-rse.github.io/events/2023-06-08)
 * [Link to this hackmd.io notepad](https://hackmd.io/@nsuDQSQzSSmnu6IZ_MyLew/BkC4em1w2)
