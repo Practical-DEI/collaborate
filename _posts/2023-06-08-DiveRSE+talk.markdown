@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DiveRSE talk Improving Diversity and Inclusion in the RSE Community"
+title:  "DiveRSE talk Improving Diversity and Inclusion in the RSE Community 8th June 2023"
 date:   2023-06-08 12:50:04 +1100
 tags: community
 ---
