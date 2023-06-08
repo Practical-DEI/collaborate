@@ -51,6 +51,6 @@ tags: community
 * [Only 11 top roles across FTSE 100 held by ethnic minority leaders, research finds](https://www.peoplemanagement.co.uk/article/1743111/only-11-top-roles-ftse-100-held-ethnic-minority-leaders-research-finds)
 * [‘Postcode privilege’: Australia edges towards UK and US levels of inequality](https://www.smh.com.au/national/postcode-privilege-australia-edges-towards-uk-and-us-levels-of-inequality-20211208-p59fpy.html)
 * [NHS 'riddled with racism' against ethnic minority doctors](https://www.bbc.com/news/uk-60208523)
-* [UK's white female academics are being privileged above women – and men – of colour | Kalwant Bhopal | The Guardian](https://www.theguardian.com/education/2020/jul/28/uks-white-female-academics-are-being-privileged-above-women-and-men-of-colour)
+* [UK's white female academics are being privileged above women – and men – of colour Kalwant Bhopal](https://www.theguardian.com/education/2020/jul/28/uks-white-female-academics-are-being-privileged-above-women-and-men-of-colour)
 * [Women’s private pensions worth 35% less than men’s in Great Britain](https://amp.theguardian.com/business/2023/jun/05/womens-private-pensions-gap-worth-less-than-mens-great-britain)
   * [Latina Women Earn Less Than White, Black, and Native Women—Here's How We Can Close the Pay Gap](https://www.realsimple.com/work-life/money/latina-women-pay-gap) 
