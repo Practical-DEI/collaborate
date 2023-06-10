@@ -12,7 +12,8 @@ You can contribute to Not the Only One by:
 1. [Adding a submission](https://docs.google.com/forms/d/e/1FAIpQLScqWMQsFNLQZ3sMQue8cG9zFF5gP-soiJcbPE9WNm0dmiLSHA/viewform)
 2. Helping to curate (see figure 1 below) the data from Zenodo and from Twitter saved databases.
 
-![Not the Only One](https://github.com/Practical-DEI/collaborate/assets/420050/e1d579c7-7239-4fb0-943a-9edb7a2dc2ed){:class="img-responsive" width="800px" } Figure 1 - how to contribute to Not the Only One.
+![Not the Only One](https://github.com/Practical-DEI/collaborate/assets/420050/e1d579c7-7239-4fb0-943a-9edb7a2dc2ed){:class="img-responsive" width="800px" } 
+_Figure 1 - how to contribute to Not the Only One._
 
 ## Other posts
 
