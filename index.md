@@ -1,8 +1,10 @@
-## Welcome to Collaborate - Practical Diversity, Equity and Inclusion website
+# Welcome to Collaborate - Practical Diversity, Equity and Inclusion website
 
 This is a community website to share ideas around practical diversity, equity and inclusion ideas.
 
 There is an [About](about) section that tells you more.
+
+## Not the Only One
 
 One of the main projects is [Not the Only One](http://test.nottheonlyone.org). This is a project that is attempting to collate all the DEI material that shows the pesonal stories of discrimination, along with solutions on how to move forward.
 
@@ -12,6 +14,7 @@ You can contribute to Not the Only One by:
 
 ![Not the Only One](https://github.com/Practical-DEI/collaborate/assets/420050/e1d579c7-7239-4fb0-943a-9edb7a2dc2ed){:class="img-responsive" width="800px" } Figure 1 - how to contribute to Not the Only One.
 
+## Other posts
 
 You can even add posts, like in a blog. Here are the posts so far:
 
