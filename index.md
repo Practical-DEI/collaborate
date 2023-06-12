@@ -6,7 +6,7 @@ There is an [About](about) section that tells you more.
 
 ## Not the Only One
 
-One of the main projects is [Not the Only One](http://www.nottheonlyone.org). This is a project that is attempting to collate all the DEI material that shows the pesonal stories of discrimination, along with solutions on how to move forward.
+One of the main projects is [Not the Only One](https://www.nottheonlyone.org). This is a project that is attempting to collate all the DEI material that shows the pesonal stories of discrimination, along with solutions on how to move forward.
 
 You can contribute to Not the Only One by:
 1. [Adding a submission](https://docs.google.com/forms/d/e/1FAIpQLScqWMQsFNLQZ3sMQue8cG9zFF5gP-soiJcbPE9WNm0dmiLSHA/viewform)
